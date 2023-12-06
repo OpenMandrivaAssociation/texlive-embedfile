@@ -1,6 +1,6 @@
 Name:		texlive-embedfile
-Version:	54865
-Release:	2
+Version:	65528
+Release:	1
 Summary:	Embed files into PDF
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/embedfile

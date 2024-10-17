@@ -3,7 +3,7 @@ Version:	65528
 Release:	1
 Summary:	Embed files into PDF
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/embedfile
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/embedfile
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/embedfile.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/embedfile.doc.r%{version}.tar.xz
